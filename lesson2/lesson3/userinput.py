@@ -1,0 +1,7 @@
+name= input ("Enter your name")
+print (type(name))
+age= input ("Enter your age")
+age= int(age)
+print (type(age))
+height= float(input ("Enter your height"))
+print (type(height))

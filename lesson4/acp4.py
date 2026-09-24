@@ -1,2 +1,3 @@
-number= 1+2+6+17+25
-sum= number
+sum= 1+2+5+7
+total= 15
+percentage= (sum/total)*100

@@ -14,6 +14,6 @@ for row in range(1,half,1):
     for s in range(1,space+1):
         print(" ",end="")
     space= space+1
-    for col in range(1,2*(half-row)):
+    for col in range(1,2*(half-row)):     
         print("*", end="")
     print("")
